@@ -1,0 +1,51 @@
+﻿Customer ID,Age,Gender,Product Category,Purchase Amount,Satisfaction
+1,25,Male,Electronics,12000,Very Dissatisfied
+2,32,Female,Clothing,5000,Very Dissatisfied
+3,28,Male,Home,8000,Very Dissatisfied
+4,45,Female,Sports,6000,Very Dissatisfied
+5,22,Male,Electronics,15000,Very Dissatisfied
+6,36,Female,Clothing,7000,Satisfied
+7,29,Male,Home,9000,Neutral
+8,41,Female,Sports,4000,Dissatisfied
+9,33,Male,Electronics,11000,Very Satisfied
+10,27,Female,Clothing,6500,Satisfied
+11,38,Male,Home,10000,Neutral
+12,30,Female,Sports,5500,Dissatisfied
+13,26,Male,Electronics,13000,Very Satisfied
+14,35,Female,Clothing,7200,Satisfied
+15,40,Male,Home,8500,Neutral
+16,23,Female,Sports,4800,Dissatisfied
+17,31,Male,Electronics,14000,Very Satisfied
+18,34,Female,Clothing,6000,Satisfied
+19,37,Male,Home,9500,Neutral
+20,42,Female,Sports,5200,Dissatisfied
+21,24,Male,Electronics,12500,Very Satisfied
+22,39,Female,Clothing,6800,Satisfied
+23,28,Male,Home,8700,Neutral
+24,44,Female,Sports,4300,Dissatisfied
+25,21,Male,Electronics,15500,Very Satisfied
+26,33,Female,Clothing,7100,Satisfied
+27,30,Male,Home,9200,Neutral
+28,46,Female,Sports,4900,Dissatisfied
+29,27,Male,Electronics,13500,Very Satisfied
+30,36,Female,Clothing,6400,Satisfied
+31,41,Male,Home,8800,Neutral
+32,25,Female,Sports,5100,Dissatisfied
+33,29,Male,Electronics,14500,Very Satisfied
+34,38,Female,Clothing,7500,Satisfied
+35,34,Male,Home,9700,Neutral
+36,43,Female,Sports,4700,Dissatisfied
+37,22,Male,Electronics,16000,Very Satisfied
+38,31,Female,Clothing,6900,Satisfied
+39,35,Male,Home,9100,Neutral
+40,40,Female,Sports,5300,Dissatisfied
+41,26,Male,Electronics,15000,Very Satisfied
+42,37,Female,Clothing,7200,Satisfied
+43,32,Male,Home,8900,Neutral
+44,45,Female,Sports,4600,Dissatisfied
+45,23,Male,Electronics,15800,Very Satisfied
+46,39,Female,Clothing,6700,Satisfied
+47,28,Male,Home,9400,Neutral
+48,42,Female,Sports,5000,Dissatisfied
+49,30,Male,Electronics,14200,Very Satisfied
+50,36,Female,Clothing,7300,Satisfied
